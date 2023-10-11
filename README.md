@@ -7,12 +7,9 @@ Created using arduino uno R3 microcontroller, MLX90614 contactless temperature s
 
 Arduino IDE used for coding
 
-![IMG_6861](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/dfa4406d-beca-4976-8d33-30b640e59fa3)
 
-![IMG_6863](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/40c54d04-738d-4fef-a8d7-f3af79dcc601)
-
-![IMG_6864](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/3eefc039-f500-44eb-afcb-14ded14a0b58)
-
-![IMG_6867](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/faabadd8-3f7e-4f6e-bfc5-df088bb46d5f)
-
-![IMG_6869](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/cbca5729-d3a8-427f-aad1-16f25111f029)
+![IMG_6861](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/d1543503-52c4-4b0b-81a2-accb73ff0054)
+![IMG_6869](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/ab0e8a3c-d984-47d7-b163-9d1f79b3bbe9)
+![IMG_6867](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/a97f9d7b-6d8e-436e-9a66-3dac132a4041)
+![IMG_6864](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/60458263-04de-40d3-8fcd-b7fea0d63f9b)
+![IMG_6863](https://github.com/Nafis-Mohammad/Health-Monitoring-System/assets/125482567/c0703f37-aeb8-49fc-a57c-d6687967a14b)
